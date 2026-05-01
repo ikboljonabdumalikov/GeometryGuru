@@ -30,4 +30,4 @@ Console.WriteLine("Iltimos, ikkinchi sonni kiriting:");
 double secondNum = Convert.ToDouble(Console.ReadLine());
 
 double hypotenuse = Math.Sqrt((firstNum * firstNum) + (secondNum * secondNum));
-Console.WriteLine($"Uchburchakning yuzi {hypotenuse} ga teng");
+Console.WriteLine($"Uchburchakning gipotenuzasi {hypotenuse} ga teng");
